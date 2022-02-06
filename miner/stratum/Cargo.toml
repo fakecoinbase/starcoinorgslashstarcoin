@@ -8,7 +8,7 @@ edition = "2018"
 
 [dependencies]
 ethereum-types = "0.6.0"
-keccak-hash = "0.2.0"
+keccak-hash = "0.9.0"
 jsonrpc-core = { version = "14.0", features = ["arbitrary_precision"] }
 jsonrpc-tcp-server = "14.0"
 log = "0.4.11"
